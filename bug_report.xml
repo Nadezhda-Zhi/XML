@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <row>Title of the bug report</row>
+    <row>Error description</row>
+    <row>
+        <Project>the name of the project where the bug exist</Project>
+        <Application_component>part or function of the project where the bug is located</Application_component>
+        <Version_number>software version number in which the error occurs</Version_number>
+        <Severity>from S1 to S5</Severity>
+        <Priority>from P1 to P3</Priority>
+        <Bug_status>bug lifecycle stage</Bug_status>
+        <Author>bug reporter</Author>
+        <Environment>under what conditions was the bug found</Environment>
+        <Playback_steps>sequence of actions to reproduce the bug</Playback_steps>
+        <Actual_result>the result to which the playback of the steps leads</Actual_result>
+        <Expected_result>the result to which the playback of steps should lead</Expected_result>
+        <Add-ons>additional information</Add-ons>
+    </row>
+</root>
